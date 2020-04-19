@@ -35,7 +35,7 @@ Well, i hope that the timing is correct, now just need to wait and let's jump :)
 - 1 x [5v Solenoid](https://www.amazon.fr/dp/B0848TTHZB/)
 
 ### Setup
-[![Electronic setup](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fritzing/KOJR_bb.png "Fritzing")][https://github.com/fritzing/fritzing-app]
+[![Electronic setup](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fritzing/KOJR_bb.png "Fritzing")](https://github.com/fritzing/fritzing-app)
 
 ## WIP
 - [X] Arduino code -> 16.4.2020
