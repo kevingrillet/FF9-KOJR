@@ -4,7 +4,7 @@
 
 Getting back to FF9 because FF7 RMK is out here, but I don't have PS4 :(
 
-I'm still really bad at FF9 Jump Rope Minigame so I was looking for fun ideas on YouTube.
+I'm still really bad at FF9 Jump Rope minigame so I was looking for fun ideas on YouTube.
 Found this https://www.youtube.com/watch?v=Z9EJICJh6oQ with GitHub link https://github.com/mikelhamer/kojr .
 
 Well, I don't have a RaspberryPi at home, but I have an Arduino.
@@ -22,10 +22,25 @@ Well, i hope that the timing is correct, now just need to wait and let's jump :)
 - Launch the program.
 - Wait about 10 minutes.
 
+## Electronic
+
+### Required components for this project:
+
+- 1 x [Arduino Uno](https://www.amazon.fr/dp/B008GRTSV6/)
+- 1 x [Solderless breadboard](https://www.amazon.fr/dp/B07K8PQ4B5/)
+- 5 x [Jumper Wires](https://www.amazon.fr/dp/B074P726ZR/)
+- 1 x [220 Ω Resistor](https://www.amazon.fr/dp/B07Q87JZ9G/)
+- 1 x [Diode (1N4001)](https://www.amazon.fr/dp/B00QLHMR6G/)
+- 1 x [Power Transistor (2N3904)](https://www.amazon.fr/dp/B00JFOT0OE/)
+- 1 x [5v Solenoid](https://www.amazon.fr/dp/B0848TTHZB/)
+
+### Setup
+[![Electronic setup](https://raw.github.com/kevingrillet/FF9-KOJR/master/Frizting/KOJR_bb.png "Fritzing")*Made with Fritzing*][https://github.com/fritzing/fritzing-app]
+
 ## WIP
-- [X] Arduino code
-- [-] Electronic setup
-- [-] First test
+- [X] Arduino code -> 16.4.2020
+- [X] Electronic setup -> 19.4.2020
+- [-] First test -> Components incoming
 - [-] Timing tweaked
 - [-] 3D case
-- [-] Final release
+- [-] Final commit with video
