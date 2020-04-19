@@ -45,10 +45,10 @@ Well, i hope that the timing is correct, now just need to wait and let's jump :)
 ## WIP
 - [X] Arduino code -> 16.04.2020
 - [X] Electronic setup -> [~~Looking for free Fritzing~~](https://fritzing.org/download/) -> 19.04.2020
-- [ ] First test -> Components incoming
+- [ ] First test -> ~~Buy components~~ -> Components incoming
 - [ ] Timing tweaked
 - [X] 3D case first try -> ~~Discover [Fusion360](https://www.autodesk.com/products/fusion-360/overview)~~ -> Update case
-- [ ] Print case -> [Buy 3D Printer](https://shop.prusa3d.com/fr/imprimantes/994-original-prusa-mini.html)
+- [ ] Print case -> [Buy 3D Printer](https://shop.prusa3d.com/fr/imprimantes/994-original-prusa-mini.html) -> Wait -> Discover [Slicer](https://www.prusa3d.fr/prusaslicer/)
 - [ ] Adjust case
 - [ ] Complete test
 - [ ] Final commit with video
