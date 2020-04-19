@@ -37,10 +37,18 @@ Well, i hope that the timing is correct, now just need to wait and let's jump :)
 ### Setup
 [![Electronic setup](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fritzing/KOJR_bb.png "Fritzing")](https://github.com/fritzing/fritzing-app)
 
+## Case
+
+### Fusion 360
+[![Case](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/KOJR.png "Fusion 360")](https://www.autodesk.com/products/fusion-360/overview)
+
 ## WIP
 - [X] Arduino code -> 16.04.2020
 - [X] Electronic setup -> [~~Looking for free Fritzing~~](https://fritzing.org/download/) -> 19.04.2020
 - [ ] First test -> Components incoming
 - [ ] Timing tweaked
-- [ ] 3D case -> Learning Fusion360
+- [X] 3D case first try -> ~~Discover Fusion360~~ -> Update case
+- [ ] Print case -> [Buy 3D Print](https://shop.prusa3d.com/fr/imprimantes/994-original-prusa-mini.html)
+- [ ] Adjust case
+- [ ] Complete test
 - [ ] Final commit with video
