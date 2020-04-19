@@ -38,9 +38,9 @@ Well, i hope that the timing is correct, now just need to wait and let's jump :)
 [![Electronic setup](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fritzing/KOJR_bb.png "Fritzing")](https://github.com/fritzing/fritzing-app)
 
 ## WIP
-- [X] Arduino code -> 16.4.2020
-- [X] Electronic setup -> 19.4.2020
-- [-] First test -> Components incoming
-- [-] Timing tweaked
-- [-] 3D case
-- [-] Final commit with video
+- [X] Arduino code -> 16.04.2020
+- [X] Electronic setup -> [~~Looking for free Fritzing~~](https://fritzing.org/download/) -> 19.04.2020
+- [ ] First test -> Components incoming
+- [ ] Timing tweaked
+- [ ] 3D case -> Learning Fusion360
+- [ ] Final commit with video
