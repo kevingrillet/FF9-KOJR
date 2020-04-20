@@ -46,11 +46,11 @@ Well, why not use Thingiverse and just make a platform:
 
 - A small case for the Solenoid:
 
-[![Solenoid Case](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/@Ressources/solenoidCace/preview.jpg.jpg "Solenoid Case")](https://www.thingiverse.com/thing:344184)
+[![Solenoid Case](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/%40Ressouces/SolenoidoCace/preview.jpg "Solenoid Case")](https://www.thingiverse.com/thing:344184)
 
 - A Stand for the controller maybe?
 
-[![Playstation DuelShock Contoller Stand (PS2)](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/@Ressources/Playstation+DuelShock+Contoller+Stand+(PS2)/images/preview.png "Playstation DuelShock Contoller Stand (PS2)")](https://www.thingiverse.com/thing:4028214)
+[![Playstation DuelShock Contoller Stand (PS2)](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/%40Ressouces/Playstation%2BDuelShock%2BContoller%2BStand%2B(PS2)/images/preview.png "Playstation DuelShock Contoller Stand (PS2)")](https://www.thingiverse.com/thing:4028214)
 
 Print the controller Stand, then adjust the height for the Solenoid, looks to be a better option!
 
@@ -63,11 +63,11 @@ Well, why not use Thingiverse and just make a platform:
 
 - A small case for the Solenoid:
 
-[![Solenoid Case](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/@Ressources/solenoidCace/preview.jpg.jpg "Solenoid Case")](https://www.thingiverse.com/thing:344184)
+[![Solenoid Case](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/%40Ressouces/SolenoidoCace/preview.jpg "Solenoid Case")](https://www.thingiverse.com/thing:344184)
 
 - A Wall Mount for the controller: 
 
-[![Playstation Controller Wall Mount](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/@Ressources/Playstation_Controller_Wall_Mount/images/preview.jpg "Playstation Controller Wall Mount")](https://www.thingiverse.com/thing:3767193)
+[![Playstation Controller Wall Mount](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/%40Ressouces/Playstation_Controller_Wall_Mount/images/preview.jpg "Playstation Controller Wall Mount")](https://www.thingiverse.com/thing:3767193)
 
 Still need to adjust everything, still not good for me :/
 
