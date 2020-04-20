@@ -43,9 +43,13 @@ Well, i hope that the timing is correct, now just need to wait and let's jump :)
 
 #### Third Revision
 Well, why not use Thingiverse and just make a platform:
+
 - A small case for the Solenoid:
+
 [![Solenoid Case](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/@Ressources/solenoidCace/preview.jpg.jpg "Solenoid Case")](https://www.thingiverse.com/thing:344184)
+
 - A Stand for the controller maybe?
+
 [![Playstation DuelShock Contoller Stand (PS2)](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/@Ressources/Playstation+DuelShock+Contoller+Stand+(PS2)/images/preview.png "Playstation DuelShock Contoller Stand (PS2)")](https://www.thingiverse.com/thing:4028214)
 
 Print the controller Stand, then adjust the height for the Solenoid, looks to be a better option!
@@ -54,10 +58,15 @@ Print the controller Stand, then adjust the height for the Solenoid, looks to be
 
 <details>
 <summary>Second Revision</summary>
+
 Well, why not use Thingiverse and just make a platform:
+
 - A small case for the Solenoid:
+
 [![Solenoid Case](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/@Ressources/solenoidCace/preview.jpg.jpg "Solenoid Case")](https://www.thingiverse.com/thing:344184)
+
 - A Wall Mount for the controller: 
+
 [![Playstation Controller Wall Mount](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/@Ressources/Playstation_Controller_Wall_Mount/images/preview.jpg "Playstation Controller Wall Mount")](https://www.thingiverse.com/thing:3767193)
 
 Still need to adjust everything, still not good for me :/
@@ -67,7 +76,9 @@ Still need to adjust everything, still not good for me :/
 
 <details>
 <summary>First try</summary>
+
 Yeah, it's not really good :'(
+
 [![Case](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/KOJR.png "Fusion 360")](https://www.autodesk.com/products/fusion-360/overview)
 
 Need to adjust everything, so maybe 2 or 3 prints, better forget this one.
