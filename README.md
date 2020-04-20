@@ -40,14 +40,45 @@ Well, i hope that the timing is correct, now just need to wait and let's jump :)
 ## Case
 
 ### Fusion 360
+
+#### Third Revision
+Well, why not use Thingiverse and just make a platform:
+- A small case for the Solenoid:
+[![Solenoid Case](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/@Ressources/solenoidCace/preview.jpg.jpg "Solenoid Case")](https://www.thingiverse.com/thing:344184)
+- A Stand for the controller maybe?
+[![Playstation DuelShock Contoller Stand (PS2)](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/@Ressources/Playstation+DuelShock+Contoller+Stand+(PS2)/images/preview.png "Playstation DuelShock Contoller Stand (PS2)")](https://www.thingiverse.com/thing:4028214)
+
+Print the controller Stand, then adjust the height for the Solenoid, looks to be a better option!
+
+[![Case rev3](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/KOJR_rev3.png "Fusion 360")](https://www.autodesk.com/products/fusion-360/overview)
+
+<details>
+<summary>Second Revision</summary>
+Well, why not use Thingiverse and just make a platform:
+- A small case for the Solenoid:
+[![Solenoid Case](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/@Ressources/solenoidCace/preview.jpg.jpg "Solenoid Case")](https://www.thingiverse.com/thing:344184)
+- A Wall Mount for the controller: 
+[![Playstation Controller Wall Mount](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/@Ressources/Playstation_Controller_Wall_Mount/images/preview.jpg "Playstation Controller Wall Mount")](https://www.thingiverse.com/thing:3767193)
+
+Still need to adjust everything, still not good for me :/
+
+[![Case rev2](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/KOJR_rev2.png "Fusion 360")](https://www.autodesk.com/products/fusion-360/overview)
+</details>
+
+<details>
+<summary>First try</summary>
+Yeah, it's not really good :'(
 [![Case](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/KOJR.png "Fusion 360")](https://www.autodesk.com/products/fusion-360/overview)
+
+Need to adjust everything, so maybe 2 or 3 prints, better forget this one.
+</details>
 
 ## WIP
 - [X] Arduino code -> 16.04.2020
 - [X] Electronic setup -> [~~Looking for free Fritzing~~](https://fritzing.org/download/) -> 19.04.2020
 - [ ] First test -> ~~Buy components~~ -> Components incoming
 - [ ] Timing tweaked
-- [X] 3D case first try -> ~~Discover [Fusion360](https://www.autodesk.com/products/fusion-360/overview)~~ -> Update case
+- [X] 3D case first try -> ~~Discover [Fusion360](https://www.autodesk.com/products/fusion-360/overview)~~ -> ~~Update case~~
 - [ ] Print case -> [Buy 3D Printer](https://shop.prusa3d.com/fr/imprimantes/994-original-prusa-mini.html) -> Wait -> Discover [Slicer](https://www.prusa3d.fr/prusaslicer/)
 - [ ] Adjust case
 - [ ] Complete test
