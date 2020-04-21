@@ -32,7 +32,7 @@ Well, i hope that the timing is correct, now just need to wait and let's jump :)
 - 1 x [220 Ω Resistor](https://www.amazon.fr/dp/B07Q87JZ9G/)
 - 1 x [Diode (1N4001)](https://www.amazon.fr/dp/B00QLHMR6G/)
 - 1 x [Power Transistor (2N3904)](https://www.amazon.fr/dp/B00JFOT0OE/)
-- 1 x [5v Solenoid](https://www.amazon.fr/dp/B0848TTHZB/)
+- 1 x [5v Solenoid](https://www.amazon.fr/dp/B0848TTHZB/) *or [this one, if the first one is too small](https://www.sparkfun.com/products/11015)*
 
 ### Setup
 [![Electronic setup](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fritzing/KOJR_bb.png "Fritzing")](https://github.com/fritzing/fritzing-app)
@@ -44,7 +44,7 @@ Well, i hope that the timing is correct, now just need to wait and let's jump :)
 #### Third Revision
 Well, why not use Thingiverse and just make a platform:
 
-- A small case for the Solenoid:
+- A small case for the Solenoid + paper:
 
 [![Solenoid Case](https://raw.githubusercontent.com/kevingrillet/FF9-KOJR/master/Fusion360/%40Ressouces/SolenoidoCace/preview.jpg "Solenoid Case")](https://www.thingiverse.com/thing:344184)
 
@@ -89,7 +89,7 @@ Need to adjust everything, so maybe 2 or 3 prints, better forget this one.
 - [X] Electronic setup -> [~~Looking for free Fritzing~~](https://fritzing.org/download/) -> 19.04.2020
 - [ ] First test -> ~~Buy components~~ -> Components incoming
 - [ ] Timing tweaked
-- [X] 3D case first try -> ~~Discover [Fusion360](https://www.autodesk.com/products/fusion-360/overview)~~ -> ~~Update case~~
+- [X] 3D case first try -> ~~Discover [Fusion360](https://www.autodesk.com/products/fusion-360/overview)~~ -> ~~Update case~~ -> 20.04.2020
 - [ ] Print case -> [Buy 3D Printer](https://shop.prusa3d.com/fr/imprimantes/994-original-prusa-mini.html) -> Wait -> Discover [Slicer](https://www.prusa3d.fr/prusaslicer/)
 - [ ] Adjust case
 - [ ] Complete test
