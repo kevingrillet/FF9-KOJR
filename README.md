@@ -94,3 +94,21 @@ Need to adjust everything, so maybe 2 or 3 prints, better forget this one.
 - [ ] Adjust case
 - [ ] Complete test
 - [ ] Final commit with video
+
+## Notes:
+<details>
+<summary>Hacking the controller way</summary>
+
+Well, if I can't build the solenoid way, why not just hack the controller?
+
+With some work I think it's possible to directly send inputs to the PS2.
+
+
+Links:
+
+- https://store.curiousinventor.com/guides/PS2
+Build a link between the Arduino and the Male connector should be possible i hope.
+
+- https://github.com/madsci1016/Arduino-PS2X
+Instead of reading the inputs I think it's possible to send them.
+<details>
