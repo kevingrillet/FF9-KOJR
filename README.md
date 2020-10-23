@@ -111,4 +111,4 @@ Build a link between the Arduino and the Male connector should be possible i hop
 
 - https://github.com/madsci1016/Arduino-PS2X
 Instead of reading the inputs I think it's possible to send them.
-<details>
+</details>
